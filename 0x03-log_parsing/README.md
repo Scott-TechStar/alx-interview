@@ -85,6 +85,4 @@
     ```
 ---
 
-## Collaborate
 
-To collaborate, reach me through my email address wendymunyasi@gmail.com.
